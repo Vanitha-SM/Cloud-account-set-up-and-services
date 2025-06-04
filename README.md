@@ -1,9 +1,8 @@
 
 # EX NO 1: Cloud-account-set-up-and-services
 ~~~
-Name : NANDHAKUMAR G R
-
-Reg no: 212222100029
+Name : VANITHA S
+Reg no: 212222100057
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
